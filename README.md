@@ -1,0 +1,1 @@
+This repository contains a program that is used to query a database to retrieve information about certain movies. The database is a relational database that is queried with SQL specifically sqlite. The program is written in Python using the sqlite3 library to use SQL.
